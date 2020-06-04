@@ -1,5 +1,6 @@
 
 ## Test out splats
+## A splat only seems to work when it's at the end; otherwise it's treated as a literal match
 /*-test  /  301
 /test/test/*  /  301
 /test/*/test/ / 301
