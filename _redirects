@@ -1,0 +1,8 @@
+
+## Test out splats
+/*-test  /  301
+/test/test/*  /  301
+/test/*/test/ / 301
+
+## Test redirect external
+/goaway https://google.com 301
